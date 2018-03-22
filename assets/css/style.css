@@ -8,8 +8,13 @@
 body {
 	/* background-color: yellow; */
 }
+.mypicturetwo
+{
+	height: 550px;
+	width:1500px;
+	border-width: 5px;
+}
 #main-section {
-	background-color: ;
 }
 	section#mainsection >a {
 		color: blue;
@@ -51,13 +56,13 @@ h1 {
 #portfolio-section{
 	background-color: rgb(200,200,210);
 }
+
 #skills-section{
 background-color: rgb(100,200,210);
 }
 #about-section{
 background-color: rgb(200,100,210);
 }
-#main-section,
 #portfolio-section,
 #skills-section,
 #about-section {
