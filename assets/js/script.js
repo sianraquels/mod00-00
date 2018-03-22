@@ -1,0 +1,1 @@
+console.log('HELLO WORLD! Im ready for full-stack web developer.');
