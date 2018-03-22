@@ -1,3 +1,54 @@
+* {
+	padding: 0;
+	margin:0;
+	font-family: 'Indie Flower', cursive;
+
+}
+
 body {
-	background-color:; 
+	/* background-color: yellow; */
+}
+#main-section {
+	background-color: ;
+}
+.about {
+	width: 60%;
+	/* margin: 0 auto; */
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.mypicture {
+	height: 150px;
+	width:150px;
+	border-radius: 60% ;
+	border-style:solid;
+	border-color: rgb(255,255,100);
+	border-width: 5px;
+}
+h1 {
+	color: rgb(150,200,250);
+	font-size: 50px;
+	font-weight: normal;
+}
+.defdes {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#portfolio-section{
+	background-color: rgb(200,200,210);
+}
+#skills-section{
+background-color: rgb(100,200,210);
+}
+#about-section{
+background-color: rgb(200,100,210);
+}
+#main-section,
+#portfolio-section,
+#skills-section,
+#about-section {
+	height: 40vh; /*viewport heaighth */
 }
