@@ -11,6 +11,17 @@ body {
 #main-section {
 	background-color: ;
 }
+	section#mainsection >a {
+		color: blue;
+		text-decoration: none;
+		padding: 15px;
+		display: block;
+	}
+	a [href="https://www.facebook.com/sianraquel"]{
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
 .about {
 	width: 60%;
 	/* margin: 0 auto; */
